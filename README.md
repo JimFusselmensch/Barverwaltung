@@ -1,4 +1,3 @@
 # Barverwaltung
 Barverwaltung
-
-![Klassendiagramm_Barverwaltung](https://user-images.githubusercontent.com/93650507/163031052-c7509432-f2ff-40b1-b85f-c741c7c27e96.jpg)
+![Klassendiagramm_Barverwaltung](https://user-images.githubusercontent.com/93650507/163031210-0c23e59e-0c6b-4597-8aaa-5d573d1ea44e.jpg)
