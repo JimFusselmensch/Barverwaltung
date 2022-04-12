@@ -33,6 +33,9 @@ Could-Kriterien:
     Sicherung und Versionierung des Projekts mit GiT +
     automatisierte Unit-Tests
     Anbindung einer Datenbank
+![Klassendiagramm_Barverwaltung](https://user-images.githubusercontent.com/93650507/163040281-bf6d6ea6-5ce2-4354-bb60-a1d713c4345c.jpg)
 
-ssendiagramm_Barverwaltung](https://user-images.githubusercontent.com/93650507/163031210-0c23e59e-0c6b-4597-8aaa-5d573d1ea44e.jpg)
-![struct php](https://user-images.githubusercontent.com/93650507/163040201-0d76216a-9036-4bcb-a462-a3429b09ac65.png)
+
+
+
+[struct php](https://user-images.githubusercontent.com/93650507/163040201-0d76216a-9036-4bcb-a462-a3429b09ac65.png)
