@@ -11,7 +11,7 @@ Must-Kriterien:
     korrekte Anwendung von private, protected, public (Datenkapselung) +
     get- und set-Methoden für Attribute +
     Implementation und Nutzung eigener Konstruktoren mit Übergabeparametern +
-    min. zwei Testfälle (Schreibtischtest) -
+    min. zwei Testfälle (Schreibtischtest) nur einer aufgrund von wiederholung
     grafische Benutzeroberfläche zur Steuerung der Barverwaltung mit min. einem Haupt- und einem weiteren Fenster +
     Speicherung von Objekten in Array oder Liste +
     Klassendiagramm mit Beziehungen zwischen Klassen Multiplizitäten +
