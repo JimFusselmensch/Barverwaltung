@@ -34,5 +34,5 @@ Could-Kriterien:
     automatisierte Unit-Tests
     Anbindung einer Datenbank
 ![Klassendiagramm_Barverwaltung](https://user-images.githubusercontent.com/93650507/163040281-bf6d6ea6-5ce2-4354-bb60-a1d713c4345c.jpg)
+![struct php](https://user-images.githubusercontent.com/93650507/163040505-c1092696-8e12-46cb-9d16-38d0f9ba1f9d.jpeg)
 
-[struct php](https://user-images.githubusercontent.com/93650507/163040201-0d76216a-9036-4bcb-a462-a3429b09ac65.jpg)
